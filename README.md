@@ -29,7 +29,7 @@ This is full dropin replacement for [llthreads](https://github.com/Neopallium/lu
 ##Manual install
 
 ``` bash
-$ cmake && make && make install
+$ cmake ./ && make && make install
 ```
 
 ##Usage
